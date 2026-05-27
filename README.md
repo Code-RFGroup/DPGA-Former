@@ -6,7 +6,7 @@ DPGA-Former: Detail-Preserving and Geometry-Aware Semantic Segmentation for VHR 
 We evaluate DPGA-Former on three public benchmark datasets:
 
 - [ISPRS Potsdam](https://www.isprs.org/resources/datasets/benchmarks/UrbanSemLab/Default.aspx) - 5cm GSD aerial imagery, 6 classes
-- [LCAI (LandCover.ai)](https://landcover.ai.linuxpolska.com) - Aerial imagery, 4 classes (buildings, woodlands, water, roads)
+- [LCAI (LandCover.ai)](https://landcover.ai.linuxpolska.com) - Aerial imagery, 5 classes
 - [FGID](https://doi.org/10.1109/IGARSS.2018.8518389) - Gaofen-2 satellite imagery, 6 classes
 
 ---
