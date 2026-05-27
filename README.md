@@ -26,6 +26,20 @@ The package includes:
 
 ---
 
+## Pretrained Models
+
+Due to file size limits on GitHub, the trained model checkpoints are available on Google Drive:
+
+| Dataset | Best mIoU | Download Link |
+|---------|-----------|----------------|
+| ISPRS Potsdam | 73.39% | [Download](https://drive.google.com/drive/folders/1QjOdKAHMNw4yy02c3W85P67oDwmmP3ET?usp=sharing) |
+| LCAI | 87.10% | [Download](https://drive.google.com/drive/folders/1cQcF8AC5sDvh1CDroVEze6J-q5cqBXOP?usp=sharing) |
+| FGID | 80.08% | [Download](https://drive.google.com/drive/folders/1Sqnd3rNNHMqb25xAyCuS-XsmiEug2Lon?usp=sharing) |
+
+Place the downloaded `.ckpt` files in `model_weights/{dataset}/dpgaformer-.../`
+
+---
+
 ## Code
 
 The full training and evaluation code will be released upon paper acceptance.
