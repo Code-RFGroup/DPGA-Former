@@ -250,12 +250,3 @@ We acknowledge the authors and maintainers of the ISPRS Potsdam, LandCover.ai, a
 ## Citation
 
 If you find this work useful in your research, please consider citing our paper:
-
-```bibtex
-@article{DPGAFormer,
-  title={Detail-Preserving and Geometry-Aware Semantic Segmentation for VHR Remote Sensing Imagery},
-  author={Insert Authors},
-  journal={Insert Journal Name},
-  year={Insert Year}
-}
-```
