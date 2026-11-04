@@ -118,7 +118,7 @@ DPGA-Former uses pretrained STSeg-Base backbone weights.
 
 Download the pretrained checkpoint:
 
-**[STSeg-Base Pretrained Weights](GOOGLE_DRIVE_LINK_TO_BE_ADDED)**
+**[STSeg-Base Pretrained Weights]([GOOGLE_DRIVE_LINK_TO_BE_ADDED](https://drive.google.com/file/d/1o3kUOJul5GxsPwMbMsIgeGeWP93BBWay/view?usp=drive_link))**
 
 Place the downloaded checkpoint in:
 
