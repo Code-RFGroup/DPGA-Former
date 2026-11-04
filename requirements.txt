@@ -27,7 +27,6 @@ torchmetrics==1.5.2
 # Configuration and utilities
 PyYAML==6.0.2
 tqdm==4.67.1
-tb-nightly
 thop==0.1.1.post2209072238
 ttach==0.0.3
 openTSNE==1.0.1
