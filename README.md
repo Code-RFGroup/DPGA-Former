@@ -51,3 +51,7 @@ data/
     ├── train_5pd.txt
     ├── val_5pd.txt
     └── test_5pd.txt
+
+For Potsdam, the image partitions are organized into separate directories.
+
+Important Potsdam implementation detail: In the current verified configuration, data/potsdam/test/ is assigned to the validation dataset and used for inference during testing. This is intentional in the released experimental setup. The separate data/potsdam/val/ directory is not automatically selected by the current configuration. Preserve this arrangement when reproducing the existing experiments.
