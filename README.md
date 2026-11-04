@@ -16,7 +16,7 @@ The framework integrates HiLoStem, AxialLite attention, and a boundary-aware dec
 
 ## Overview Framework of DPGA-Former
 
-![DPGA-Former Architecture](Figures/DPGA-Former.jpg)
+![DPGA-Former Architecture](Figures/Fig_2.jpg)
 
 ## Numerical Results
 
