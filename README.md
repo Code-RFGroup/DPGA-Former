@@ -14,9 +14,9 @@ DPGA-Former incorporates complementary feature extraction and geometry-aware rep
 
 The framework integrates HiLoStem, AxialLite attention, and a boundary-aware decoder to enhance spatial detail preservation, contextual feature representation, and boundary delineation.
 
-**Overview framework:**
+## Overview Framework of DPGA-Former
 
-[See the framework figures in the Figures directory](Figures/Fig_2.pdf)
+![DPGA-Former Architecture](Figures/DPGA-Former.jpg)
 
 ## Numerical Results
 
