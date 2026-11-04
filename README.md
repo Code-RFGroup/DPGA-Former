@@ -16,7 +16,7 @@ The framework integrates HiLoStem, AxialLite attention, and a boundary-aware dec
 
 **Overview framework:**
 
-[See the framework figures in the Figures directory](Figures/)
+[See the framework figures in the Figures directory](Figures/Fig_2.pdf)
 
 ## Numerical Results
 
