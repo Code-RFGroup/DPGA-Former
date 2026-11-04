@@ -224,7 +224,7 @@ Due to GitHub file-size limitations, the trained DPGA-Former checkpoints are ava
 |:---:|---:|:---:|
 | ISPRS Potsdam | 73.39% | [Download](https://drive.google.com/drive/folders/1QjOdKAHMNw4yy02c3W85P67oDwmmP3ET?usp=sharing) |
 | LCAI | 87.10% | [Download](https://drive.google.com/drive/folders/1cQcF8AC5sDvh1CDroVEze6J-q5cqBXOP?usp=sharing) |
-| GID | 80.08% | [Download](https://drive.google.com/drive/folders/1Sqnd3rNNHMqb25xAyCuS-XsmiEug2Lon?usp=sharing) |
+| GID | 80.08% | [Download](https://drive.google.com/drive/folders/1j_iVx9PXBMnjB9AEAWfSi6kdwt4Ew9aw?usp=drive_link) |
 
 Place the downloaded `.ckpt` files in their respective directories:
 
